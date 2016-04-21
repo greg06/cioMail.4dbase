@@ -1,0 +1,20 @@
+﻿{
+	"mail":{
+		"serveur":		"in-v3.mailjet.com",
+		"port":			465,
+		"ssl":			5,
+		"identifiant":	"35f7c3f23c13b47c71f80c96b7043252",
+		"mdp":			"6ecc5613f0b84661db0edc90f4298b02",
+		"emetteur":		"contact@connect-io.fr"
+	},
+	"modele": {
+		"test": {
+			"objet": "E-mail de test cioMail",
+			"source": "test.html"
+		},
+		"demo": {
+			"objet": "E-mail de démonstration cioMail",
+			"source": "demo.html"
+		}
+	}
+}
